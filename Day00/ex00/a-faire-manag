@@ -1,0 +1,10 @@
+# To activate this environment, use                                             
+#                                                                               
+#     $ conda activate 42AI-edesaint                                            
+#                                                                               
+# To deactivate an active environment, use                                      
+#                                                                               
+#     $ conda deactivate                                                        
+                                                                                
+Launch the following command or restart your shell:                             
+        source ~/.zshrc     
